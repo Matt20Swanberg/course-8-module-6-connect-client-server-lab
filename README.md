@@ -299,10 +299,17 @@ This allows events created through the frontend to be processed by the Flask bac
 
 ---
 
-## Screenshot
+## Screenshots
+
+### Testing Suite Success
 
 ![Passing Test Suite](./screenshots/test_suite.png)
+
+### Backend API list
+
 ![Backend API](./screenshots/BE_API.png)
+
+### Frontend render of list and Add New
 ![Frontend Render](./screenshots/FE_render.png)
 
 ---
