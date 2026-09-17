@@ -59,6 +59,5 @@ form.addEventListener("submit", async (event) => {
     titleInput.value = "";
 });
 
-
 // Load all existing events when the page opens
 getEvents();
